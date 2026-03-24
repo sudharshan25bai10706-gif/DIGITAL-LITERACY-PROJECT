@@ -1,5 +1,5 @@
 This checklist provides specific, actionable tips to help college students in India recognize and avoid online threats.
-* General Digital Safety
+*General Digital Safety
 Enable Two-Factor Authentication: Enable 2-factor authentication on your university email, WhatsApp, and social media accounts.
 
 Use Strong, Unique Passwords: Use a combination of letters, numbers, and special characters. Do not use the same password everywhere.
