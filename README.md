@@ -1,4 +1,8 @@
 # DIGITAL-LITERACY-PROJECT
+NAME: S G SUDHARSHAN
+
+REG NO : 25BAI10706
+
 Project Overview
 
 - This project is all about the role and responsibilities of a student digital ambassador, specifically in creating and promoting awareness about digital literacy. It includes the essential components of digital literacy such as online safety, good online behavior, communication, and issues in the cyber world.
